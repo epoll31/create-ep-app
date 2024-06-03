@@ -18,5 +18,6 @@
     "javascript"
   ],
   "author": "Ethan Pollack",
-  "license": "ISC"
+  "license": "ISC",
+  "repository":"https://github.com/epoll31/create-esp-app"
 }
