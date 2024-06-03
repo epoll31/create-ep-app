@@ -1,16 +1,24 @@
 # create-esp-app
 
-This is an npm package that allows you to quickly create a Next.js application with a pre-configured example folder. The example folder includes a ready-to-use Next.js project with some basic components and pages to get you started.
+This is an npm package that allows you to quickly create a opinionated Next.js applications. For more information on the opinions, see the [example folder](https://github.com/epoll31/create-esp-app/tree/main/example).
 
 ## Usage
 
 To create a new Next.js project with the pre-configured example folder, run the following command:
 
 ```bash
+npx create-esp-app <project-name>
+```
+
+or
+
+```bash
 npx create-esp-app
 ```
 
-This will prompt you to enter a name for your project, and then it will create a new directory with that name and set up an opinionated Next.js project.
+Then it will create a new directory with that name and set up the opinionated Next.js project.
+
+Note: if you don't specify a name, the command will prompt you to enter one.
 
 ## Example Folder
 
@@ -40,19 +48,6 @@ The example folder contains a basic Next.js project structure with the following
 │   │   └── icons
 │   │       ├── chevron-up.tsx
 │   │       ├── gear.tsx
-│   │       ├── github.tsx
-│   │       ├── google.tsx
-│   │       ├── home.tsx
-│   │       ├── link.tsx
-│   │       ├── linkedin.tsx
-│   │       ├── logout.tsx
-│   │       ├── moon.tsx
-│   │       ├── pencil.tsx
-│   │       ├── search.tsx
-│   │       ├── sun.tsx
-│   │       ├── trash.tsx
-│   │       ├── twitter.tsx
-│   │       ├── user.tsx
 │   │       └── (...)
 │   └── utils
 │       └── cn.ts
