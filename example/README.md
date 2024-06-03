@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-ep-app`](https://github.com/epoll31/create-ep-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-esp-app`](https://github.com/epoll31/create-esp-app).
 
 ## Getting Started
 

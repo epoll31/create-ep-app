@@ -1,11 +1,11 @@
 {
-  "name": "create-ep-app",
+  "name": "create-esp-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "create-ep-app": "./bin/index.js"
+    "create-esp-app": "./bin/index.js"
   },
   "keywords": [],
   "author": "Ethan Pollack",
