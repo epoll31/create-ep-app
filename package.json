@@ -7,7 +7,7 @@
   "bin": {
     "create-esp-app": "./bin/index.js"
   },
-  "keywords": [],
+  "keywords": ["create-esp-app", "create-next-app", "nextjs", "typescript", "tailwindcss", "react", "node", "javascript"],
   "author": "Ethan Pollack",
   "license": "ISC"
 }
