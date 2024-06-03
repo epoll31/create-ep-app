@@ -1,6 +1,6 @@
 {
   "name": "create-esp-app",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -19,5 +19,5 @@
   ],
   "author": "Ethan Pollack",
   "license": "ISC",
-  "repository":"https://github.com/epoll31/create-esp-app"
+  "repository": "https://github.com/epoll31/create-esp-app"
 }
