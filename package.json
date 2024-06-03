@@ -1,13 +1,22 @@
 {
   "name": "create-esp-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
     "create-esp-app": "./bin/index.js"
   },
-  "keywords": ["create-esp-app", "create-next-app", "nextjs", "typescript", "tailwindcss", "react", "node", "javascript"],
+  "keywords": [
+    "create-esp-app",
+    "create-next-app",
+    "nextjs",
+    "typescript",
+    "tailwindcss",
+    "react",
+    "node",
+    "javascript"
+  ],
   "author": "Ethan Pollack",
   "license": "ISC"
 }
