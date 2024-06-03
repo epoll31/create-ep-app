@@ -1,0 +1,13 @@
+{
+  "name": "create-ep-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-ep-app": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Ethan Pollack",
+  "license": "ISC"
+}
