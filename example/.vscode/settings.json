@@ -1,0 +1,12 @@
+{
+  "workbench.editor.customLabels.patterns": {
+    "**/app/**/page.tsx": "${dirname} | Page",
+    "**/app/**/layout.tsx": "${dirname} | Layout",
+    "**/components/**": "${filename} | Component",
+    "**/components/icons/**": "${filename} | Icon",
+    "**/app/api/*/route.ts": "${dirname} | API",
+    "**/app/api/*/*/route.ts": "${dirname(1)}/${dirname} | API",
+    "**/app/api/*/*/*/route.ts": "${dirname(2)}/${dirname(1)}/${dirname} | API",
+    "**/app/api/*/*/*/*/route.ts": "${dirname(3)}/${dirname(2)}/${dirname(1)}/${dirname} | API",
+  }
+}
